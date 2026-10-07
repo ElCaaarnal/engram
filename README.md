@@ -181,7 +181,7 @@ Navigate with `j`/`k`, use `Enter` to drill in, `c` to copy content to the clipb
 
 For production use and security support, install the latest stable release from [GitHub Releases](https://github.com/Gentleman-Programming/engram/releases). Release candidates are prerelease validation and feedback builds; choose one only when you accept prerelease risk. See the [Release Policy](docs/RELEASE-POLICY.md) before upgrading.
 
-Homebrew remains on the stable v1.20.0 line:
+Homebrew installs the latest stable release:
 
 ```bash
 brew install gentleman-programming/tap/engram
